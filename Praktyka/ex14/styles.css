@@ -1,0 +1,18 @@
+a:link{
+    color: black;
+}
+a:visited{
+    color: #FF7786;
+}
+a:hover{
+    color: chartreuse;
+}
+p{
+    width: 200px;
+}
+p::first-letter{
+    font-size: 3em;
+}
+p::first-line{
+    color: #FF7786;
+}

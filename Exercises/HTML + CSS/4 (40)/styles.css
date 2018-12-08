@@ -1,0 +1,19 @@
+/*.box{*/
+    /*width: 200px;*/
+    /*list-style-type: none;*/
+    /*text-align: center;*/
+/*}*/
+ul{
+    background-color: black;
+    color: white;
+}
+
+ul li{
+    width: 200px;
+    height: 20px;
+}
+
+ul, li{
+    border: 3px solid black;
+    border-collapse: collapse;
+}
